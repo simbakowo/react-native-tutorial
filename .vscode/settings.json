@@ -1,0 +1,10 @@
+{
+    "editor.tokenColorCustomizations": {
+
+    },
+    "workbench.colorTheme": "Moonlight II",
+    "editor.fontFamily": "Roboto Mono",
+    "editor.fontWeight": "500",
+    "editor.fontSize": 16,
+    //"editor.lineHeight": 1.4
+}
