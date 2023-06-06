@@ -5,6 +5,12 @@
     "workbench.colorTheme": "Moonlight II",
     "editor.fontFamily": "Roboto Mono",
     "editor.fontWeight": "500",
-    "editor.fontSize": 16,
-    //"editor.lineHeight": 1.4
+    "editor.fontSize": 17,
+    //"editor.lineHeight": 1.4,
+
+    // "workbench.colorTheme": "Tokyo Night Light",
+    // "editor.fontFamily": "Consolas, Roboto Mono",
+    // "editor.fontWeight": "550",
+    // "editor.fontSize": 18,
+    // "editor.lineHeight": 1.4
 }
